@@ -4,7 +4,7 @@ This project is an implementation of an automatic soap dispenser using Embedded 
 
 ## Components Used
 
-- **LPC17xx Microcontroller**
+- **LPC1768 Microcontroller**
 - **Ultrasonic Sensor**: Used to detect the presence of a hand within a certain range.
 - **Stepper Motor**: Used to control the dispensing mechanism.
 - **Embedded C Programming**: The project is implemented in C using the LPC17xx library.
